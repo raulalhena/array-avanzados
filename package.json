@@ -1,0 +1,16 @@
+{
+  "name": "fp3-katas-04-javascript-arrays-avanzados",
+  "version": "1.0.0",
+  "description": "Métodos avanzados de Arrays",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
