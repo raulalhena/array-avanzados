@@ -1,0 +1,12 @@
+.big-stars li {
+    text-indent: -9999px;
+    width: 49px;
+    height: 46px;
+    background: url('../images/big_star_empty.png');
+    }
+.big-stars .full {
+    background: url('../images/big_star_full.png'); 
+    }
+.big-stars .half {
+    background: url('../images/big_star_half.png'); 
+    }
